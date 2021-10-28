@@ -12,3 +12,5 @@ const Login = () => {
 };
 
 export default Login;
+
+// Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
