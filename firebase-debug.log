@@ -23,3 +23,10 @@ Before we get started, keep in mind:
 
   * You are currently outside your home directory
 
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
